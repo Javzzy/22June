@@ -254,5 +254,14 @@ body {
         font-size: 18px;
         padding: 8px 15px;
     }
+
+    .container,
+    .card-front,
+    .card-back,
+    .card-back p,
+    .header,
+    .footer {
+        font-family: 'Bubblegum Sans', sans-serif;
+    }
 }
 
